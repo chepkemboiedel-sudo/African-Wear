@@ -2,6 +2,8 @@
 
 A fully clickable, frontend-only **multi-vendor marketplace for African wear**, built as a portfolio showcase piece. Think Shopify polish, but as a curated marketplace where many independent African designers sell. No backend, payments, or auth — everything runs on mock data and in-memory state, but every click *works*.
 
+Live: https://african-wear.vercel.app/
+
 ![Sankofa](public/favicon.svg)
 
 ## Run it
